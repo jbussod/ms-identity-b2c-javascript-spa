@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'UAT-INTRANET-AzWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60F0E3B0243C48DCB89EBFA2ABF5E737 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5735C33E8D244667BBC31FE6AD170F97 }}
           package: .
